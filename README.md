@@ -1,24 +1,23 @@
 # dong
 
-## Project setup
-```
-npm install
-```
+## 效果演示
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+- 初始化项目
 
-### Compiles and minifies for production
-```
-npm run build
-```
+vue create demo
 
-### Lints and fixes files
-```
-npm run lint
-```
+- 安装组件库
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+npm install dong-ui
+
+- 全局导入
+
+import DongUi from 'dong-ui'
+
+import 'dong-ui/lib/dong-ui.css'
+
+- 使用组件
+
+
+
+
